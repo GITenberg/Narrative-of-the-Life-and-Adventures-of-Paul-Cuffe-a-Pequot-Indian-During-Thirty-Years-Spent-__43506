@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '42262'
     url: http://www.gutenberg.org/2009/agents/42262
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43506#Narrative-of-the-Life-and-Adventures-of-Paul-Cuffe-a-Pequot-Indian-During-Thirty-Years-Spent-_
 gutenberg_issued: '2013-08-19'
 gutenberg_type: Text
 identifiers:
